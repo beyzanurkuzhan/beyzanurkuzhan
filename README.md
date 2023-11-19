@@ -14,11 +14,11 @@ I continue my work passionately to make healthy living easier for people.
 
 Profilimi ziyaret ettiğiniz için teşekkür ederim. :)
 
-<h3>My Github io</h3>
+<h3>Github </h3>
 
 https://github.com/beyzanurkuzhan
 
-<h3>My Linkedln io</h3>
+<h3>Linkedln </h3>
 
 https://www.linkedin.com/in/beyzanur-kzhn
 
