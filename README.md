@@ -1,4 +1,5 @@
-Hi, I'm Beyzanur KUZHAN.
+<h2>Hi, I'm Beyzanur KUZHAN.<h2/>
+ 
 I just graduated from the nursing department. I aim to strengthen my knowledge in the field of healthcare with software. I aim to benefit people through various projects. 
 To develop my education-related projects;
 In addition to my nursing education, I also received training in the child development program.
