@@ -4,7 +4,7 @@ I just graduated from the nursing department. I aim to strengthen my knowledge i
 
 🖥️  Şuanda HTML5, CSS3, SCSS ,Java Script gibi teknolojilerle ilgileniyorum. Udemig Öncülüğünde çeşitli projelerde çalışıyorum.
 
- Oluşturduğum projeleri bu platformda paylaşıyorum. Projelerimde genellikle HTML5, CSS3, SCSS, Java Script teknolojileri kullanıyorum ve açık kaynak topluluğuna katkıda bulunmaktan keyif alıyorum.
+ Oluşturduğum projeleri bu platformda paylaşıyorum. Projelerimde genellikle HTML5, CSS3, SCSS, Java Script teknolojileri kullanıyorum.
 
 🌱 Sürekli kendimi geliştirmeye çalıştığım teknolojilerden birkaçı React, Frontend, Flutter ve liderlik.
 
