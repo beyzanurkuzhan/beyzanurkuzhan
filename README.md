@@ -1,6 +1,6 @@
 <h2>Hi, I'm Beyzanur KUZHAN.<h2/>
  
-I just graduated from the nursing department. I aim to strengthen my knowledge in the field of healthcare with software. I aim to benefit people through various projects. 
+<a>I just graduated from the nursing department. I aim to strengthen my knowledge in the field of healthcare with software. I aim to benefit people through various projects. 
 To develop my education-related projects;
 In addition to my nursing education, I also received training in the child development program.
 I continue my work passionately to make healthy living easier for people.
@@ -14,6 +14,7 @@ I continue my work passionately to make healthy living easier for people.
 📨 İletişim için e-postam: kuzhanbeyzanur@gmail.com
 
 Profilimi ziyaret ettiğiniz için teşekkür ederim. :)
+<a/>
 
 <h3>Github </h3>
 
